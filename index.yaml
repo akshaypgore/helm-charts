@@ -3,7 +3,17 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-31T13:12:10.455889+05:30"
+    created: "2025-07-31T14:14:11.815411+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ed5f628d6967faa060f178438ce7a5ebb96bc3327b4b38f0d586729790a7232a
+    name: app
+    type: application
+    urls:
+    - https://akshaypgore.github.io/helm-charts/app-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-31T14:14:11.814718+05:30"
     description: A Helm chart for Kubernetes
     digest: b6b9d3614f60f31745fb79fd3a604ec9a494f608f234ea893054c9044200a597
     name: app
@@ -13,7 +23,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-31T13:12:10.455228+05:30"
+    created: "2025-07-31T14:14:11.813902+05:30"
     description: A Helm chart for Kubernetes
     digest: 38b6853b2e3fbd71491a7b55faecc1a560941055598bad9b69d3c2e406eddeda
     name: app
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://akshaypgore.github.io/helm-charts/app-1.0.0.tgz
     version: 1.0.0
-generated: "2025-07-31T13:12:10.454433+05:30"
+generated: "2025-07-31T14:14:11.812873+05:30"
